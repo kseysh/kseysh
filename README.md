@@ -5,6 +5,34 @@
 
 <h3>꾸준한 습관을 통해 발전하는 개발자 김승환입니다 😺</h3><br/>
 
+<hr>
+
+<h3>SOPT 면접관님! <br/>
+제 자소서에서 언급되었던, 보여드리고 싶은 프로젝트들입니다 😊</h3>
+
+ >  사진을 누르면 깃허브 레포지토리 링크로 이동합니다 :)
+
+
+<br>
+
+
+첫 해커톤을 단 3명의 열정으로 완성했던, 아쉽지만 최선을 다했던 케이크 주문제작 서비스, CakeKku입니다.<br/><br/>
+<a href="https://github.com/kseysh/CakeKku_BE">
+<img src="https://github.com/kseysh/kseysh/assets/69035864/0e271b4d-c586-4525-9449-daec7c02180b" width="200" height="200"/></a>  <br/>
+
+좀 더 발전된 모습으로 백엔드와의 첫 협업을 경험했던 프로젝트. 주식 음성화 서비스, STALK입니다.
+<br/><br/>
+<a href="https://github.com/kseysh/STALK_BE">
+<img src="https://github.com/kseysh/kseysh/assets/69035864/0add9948-c5a8-4190-a48a-4d9118531e10" width="200" height="200"/></a>
+
+제 학습 기록인 옵시디언 정리가 들어있는 레포지토리입니다.
+<br/><br/>
+<a href="https://github.com/kseysh/Second-Brain">
+<img src="https://github.com/kseysh/kseysh/assets/69035864/f5299dae-d273-481b-8521-849f461b9298" width="200" height="200"/></a>
+<br/>
+
+
+<hr>
 
 <br/>
 
@@ -12,7 +40,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkseysh%2Fhit-counter&count_bg=%23647BD5&title_bg=%2382ADE1&icon=&icon_color=%232E2E2E&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
  
   
-<br/><br/>
+<br/>
  
 <h3>💻 Tech Stack 💻</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
