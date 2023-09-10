@@ -12,8 +12,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkseysh%2Fhit-counter&count_bg=%23647BD5&title_bg=%2382ADE1&icon=&icon_color=%232E2E2E&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
  
   
-﹏﹏﹏﹏﹏﹏﹏
-
 <br/><br/>
  
 <h3>💻 Tech Stack 💻</h3>
@@ -30,12 +28,12 @@
  
 <br/>
 
-<!--
+
 <h3>📟 Contact Me 📟</h3>
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
-<img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
--->
+<a href="https://velog.io/@kseysh"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
+<a href="https://transfer-kk.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+
+<br/>
 
 <h3> Experience </h3>
 
