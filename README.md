@@ -22,7 +22,7 @@
 <a href="https://github.com/kseysh/CakeKku_BE"><img src="https://github.com/kseysh/kseysh/assets/69035864/0e271b4d-c586-4525-9449-daec7c02180b" ></a>  <br/><br/><br/>
 
 
-좀 더 발전된 모습으로 백엔드와의 첫 협업을 경험했던 프로젝트. 주식 음성화 서비스, STALK입니다.
+좀 더 발전된 모습으로 백엔드와의 첫 협업을 경험했던 프로젝트. 시각장애인을 위한 주식 음성화 서비스, STALK입니다.
 
 [STALK](https://github.com/kseysh/STALK_BE "깃허브로 이동하는 링크")
 
