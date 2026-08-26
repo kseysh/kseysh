@@ -5,10 +5,6 @@
 
 <h3> 공유의 가치로 함께 성장하는 것을 추구하는 개발자 김승환입니다 😺</h3><br/>
 
-<h3> 📄 포트폴리오 📄 </h3>
-<a href="https://docs.google.com/document/d/134TOV1yedZjJYow8wXScHH1TT7EFyRU6WUI6zvm4WiM/edit?tab=t.0#heading=h.iwwc988hcmwq"><img src="https://img.shields.io/badge/📄_Portfolio-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a> 
-
-<br/>
 <br/>
  
 <h3>💻 Tech Stack 💻</h3>
